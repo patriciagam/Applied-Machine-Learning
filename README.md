@@ -69,6 +69,5 @@ Applied unsupervised learning techniques to identify customer segments using ban
 - **SciPy** – Statistical analysis and hypothesis testing
 - **Jupyter Notebook** – Interactive development and experimentation
 
-**Course:** Applied Predictive Analytics (APRE)  
 **Academic Year:** 2023/2024  
 **Institution:** Instituto Superior Técnico (IST)
